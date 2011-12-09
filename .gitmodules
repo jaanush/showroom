@@ -1,0 +1,3 @@
+[submodule "htdocs/showroom/vendor/Twig"]
+	path = htdocs/showroom/vendor/Twig
+	url = https://github.com/fabpot/Twig.git
